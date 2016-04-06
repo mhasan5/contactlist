@@ -1,1 +1,5 @@
 # contactlist
+
+This is my second App. I have created a restful API using MEAN Stack. SO EXCITED.  Feel free to critique any of the code. I have not completed the actual layout as of yet and am still working on it but so far very fun. 
+
+I initally installed Node and created several folders. I installed all of my folders using Gitbash. next I used the node package manager to install express which is the frame work for node. I installed this locally using npm install express. I had to require the express module so to use the functions and commands contained in the express module. Next the index.html setup and of course more folders (public folder for my app) I also used the contact delivery network to set up my angular. And with everything I had to test it. I used cdn to set up bootstrap as well. After this was more code for my controller and server. Created some dummy data and then tested it and then connected the mongo server. Here I had to use Get, Post, Delete and Put request so that the app can interact with mongodb. And then a lot more code. Check it out. 
